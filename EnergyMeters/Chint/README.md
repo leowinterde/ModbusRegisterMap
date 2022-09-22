@@ -4,7 +4,6 @@
 
 - https://github.com/salakrzy/DTSU666_CHINT_to_HUAWEI_translator
 - https://github.com/elfabriceu/DTSU666-Modbus
-- Hoymiles DTU alternative: https://github.com/tbnobody/OpenDTU
 
 ## Version '-CT'
 
@@ -27,3 +26,7 @@ Default Password: 701
 
 Default Modbus Adress: unkown
 Default Password: 701
+
+Hoymiles DTU alternative:
+- https://github.com/lumapu/ahoy
+- https://github.com/tbnobody/OpenDTU
