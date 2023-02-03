@@ -13,19 +13,24 @@ The version with '-CT' is the same meter but with current transformer terminals.
 ### CHINT DTSU666
 
 Default Modbus Adress: 1
+
 Default Password: 701
 
 
 ### CHINT DTSU666-H (Huawei Version)
 
 Default Modbus Adress: 11
+
 Default Password: 701
 
 
 ### CHINT DTSU666 (PV) - Hoymiles Version
 
 Default Modbus Adress: unkown
+
 Default Password: 701
+
+![CHINT DTSU666 (PV) - Hoymiles Version](DTSU666%20(PV)%20Hoymiles/photo.jpg)
 
 Hoymiles DTU alternative:
 - https://github.com/lumapu/ahoy
